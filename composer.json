@@ -1,0 +1,16 @@
+{
+    "name": "ssleert/reflectable-me",
+    "description": "my blog website",
+    "type": "project",
+    "require": {
+        "league/commonmark": "^2.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ssleert",
+            "email": "semenilichevsky@gmail.com"
+        }
+    ],
+    "minimum-stability": "RC"
+}
