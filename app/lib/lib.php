@@ -12,7 +12,7 @@ class Lib {
     public static string $MyNickname = 'sfome';
 
     public static array $MySocialNetWorks = [
-        'discord: slugonme'  => '4am and i am dont sleep',
+        'discord'  => 'https://discord.com/users/929101507272515584/',
         'telegram' => 'https://t.me/ssleert',
         'github'   => 'https://github.com/ssleert',
         'email'    => 'mailto:ssleert@gmail.com',

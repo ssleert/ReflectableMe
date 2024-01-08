@@ -1,2 +1,2 @@
-<?php 
+<?php
 header('Location: /pages/about.php');
