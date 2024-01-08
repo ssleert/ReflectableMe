@@ -1,6 +1,7 @@
 <?php
 
 declare(strict_types = 1);
+error_reporting(0); // Warning: Private methods cannot be final as they are never overridden by other classes in /vendor/nette/schema/src/Schema/Helpers.php on line 19
 
 require_once __DIR__ . '/../../vendor/autoload.php';
 
