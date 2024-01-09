@@ -1,0 +1,12 @@
+services:
+  backend:
+    build:
+      context: ./
+      dockerfile: ./Dockerfile
+    ports:
+      - 80:80
+    volumes:
+      - ../logs:/app/logs
+    restart: always
+    #env_file:
+    #  - .env
