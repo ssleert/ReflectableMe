@@ -8,7 +8,7 @@
 <body>
     <?php require __DIR__ . '/../components/header.php' ?>
     <main>
-        <?= Lib::MarkdownToHtml(file_get_contents(__DIR__ . '/../mds/about.md')) ?>
+        <?= Lib::MarkdownToHtml(file_get_contents(__DIR__ . '/../mds/uses.md')) ?>
     </main>
     <?php require __DIR__ . '/../components/footer.php' ?>
 </body>

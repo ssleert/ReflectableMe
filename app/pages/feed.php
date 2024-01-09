@@ -16,13 +16,13 @@
                         <?= $metaInfo['date'] ?>
                     </time>
                     - 
-                    <i>
+                    <em>
                         <b>
                             <a href="<?= '/post.php?post=' . substr($file, 0, -3) ?>">
                                 <?= $metaInfo['title'] ?>
                             </a>
                         </b>
-                    </i>
+                    </em>
                 </li>
             <?php endforeach; ?>
         </ul>

@@ -3,7 +3,7 @@ FROM fedora:rawhide
 ENV PHPRC /etc/php.ini
 
 RUN dnf install -y nginx
-RUN dnf install -y php php-cli
+RUN dnf install -y php
 
 COPY ./app /static
 COPY ./vendor /vendor

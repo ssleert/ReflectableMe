@@ -1,17 +1,21 @@
 <div align="center">
 
-### *`sfome`*
+### `sfome`
 #### *zstd compressed mind*
   
-I'm too lazy to develop anything, so during work hours <br>
-I write this readme on github, thinking I'm the coolest developer on earth. <br> 
-At the same time I'm thinking about how nice it would be to take this cute girl <br>
-out for a walk or something.
 
-If you still think I'm a good developer, <br>
-you've probably met a very arrogant me on one of the discord servers, <br>
-furiously trying to prove a completely unviable theory or some other unnecessary bullshit.
+**Hi** there, if you're reading this, *you* probably found a *link* to my **blog** somewhere. <br>
+Anyway I hope you **enjoy** reading my silly stuff.
 
-discord & telegram: `slugonme` `@ssleert`
+*Actually* **I** would like to *call myself* a **programmer** or even *better* a **software engineer**
+but **I** am too **lazy** to *develop* something *really* **useful** to other people. Now **I**'m *heavily*
+into **computer science** and all this **stuff** about *writing* **programming languages**, 
+**data transfer protocols**, all sorts of **asynchronous engines**, maybe **game engines**.
+
+The **funny** *thing* is that **I** know a bunch of *different* **programming languages** and **technologies** but still *don't know* what to **develop** :(
+
+~~Now **I** *reread* the **text** above and **realized** what **bullshit** **I** *wrote*.~~
+
+[recommended song](https://music.youtube.com/watch?v=2mxaaZGn8uE&si=zV3mZ5kngAD9Z0O1)
 
 </div>

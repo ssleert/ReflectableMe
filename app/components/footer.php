@@ -5,8 +5,7 @@
 <footer>
     <div align="center">
         <hr>
-
-        <p>Written in <a href="https://www.php.net/">php</a> with love :heart:</p>
+        <p>Made in <a href="https://www.php.net/">php</a> with love 🖤</p>
         <p>you can ping me at the sources below if youd like. >_<</p>
 
         <?php foreach (Lib::$MySocialNetWorks as $key => $value): ?>
